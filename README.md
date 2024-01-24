@@ -15,7 +15,7 @@ Hello, I'm K. Vivek Vardhan Reddy, a passionate learner and aspiring Data Scient
 Feel free to connect with me and explore my journey in the realm of Data Science:
 
 - [LinkedIn](https://www.linkedin.com/in/vivek-vardhan-kotha-b1ab30253/)
-- GitHub: [Vivek Vardhan Reddy's GitHub](https://github.com/yourusername)
+- GitHub: (https://github.com/Vivekkotha544)
 
 ## Repositories
 
