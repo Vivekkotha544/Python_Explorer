@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hello, I'm K. Vivek Vardhan Reddy, a passionate learner and aspiring Data Scientist based in Telangana, India. 👨‍💻
+Hello, I'm K. Vivek Vardhan Reddy, a passionate learner and aspiring Data Scientist based in Telangana, India. 
 
 ## About Me
 
