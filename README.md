@@ -25,4 +25,4 @@ Check out my repositories where I document my learning and projects. Your feedba
 
 ## Thank You!
 
-Thanks for taking the time to stop by and learn a bit about me. If you share similar interests or have insights to offer, feel free to connect. Happy coding! 😊
+Thanks for taking the time to stop by and learn a bit about me. If you share similar interests or have insights to offer, feel free to connect. Happy coding! 
